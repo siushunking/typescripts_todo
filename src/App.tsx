@@ -1,4 +1,5 @@
 import React, { FC, useState,ChangeEvent } from 'react';
+import Fetch from './components/fetch';
 import { ITask } from './interfaces/interfaces';
 
 const App:FC =()=>{
@@ -44,9 +45,11 @@ const App:FC =()=>{
         <button onClick={addTask}>Add Task</button>
         </div>
          
-         {todoList.map((item)=>
-         <div> {item.taskName} </div>
+         {todoList.map((item: ITask, key: number)=>
+          {return <div> {item.taskName} </div>}
          )}
+
+        <Fetch />
  
     </div>
   );
