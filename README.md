@@ -1,8 +1,10 @@
+problem_1:  I cannot fetch api in my restful api 
+
+problem_2:  how to fetch github project rather than rebuild. not async
+<img width="655" alt="螢幕截圖 2022-06-21 上午4 41 38" src="https://user-images.githubusercontent.com/85872659/174675156-6ab0ce4e-0222-411b-ad2e-7535b195363f.png">
+
+
 <img width="549" alt="螢幕截圖 2022-06-21 上午4 32 29" src="https://user-images.githubusercontent.com/85872659/174674344-4d986457-6d91-489d-8c84-c4abf33140b3.png">
-
-
-problem:  I cannot fetch api in my restful api 
-
  
  restful api
  ```
